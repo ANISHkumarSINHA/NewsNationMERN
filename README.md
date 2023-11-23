@@ -1,1 +1,1 @@
-# NewsNotion MERN Project
+# NewsNation MERN Project
