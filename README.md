@@ -1,1 +1,1 @@
-# StudyNotion Edtech Project
+# NewsNotion MERN Project
